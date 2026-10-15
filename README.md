@@ -20,3 +20,6 @@ This project uses the PlantVillage dataset.
 - NumPy
 - Matplotlib
 - Scikit-learn
+
+## Dataset
+- Link: https://huggingface.co/datasets/mohanty/PlantVillage
